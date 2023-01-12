@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Snehalben</h1>
 <h3 align="center">A passionate Software developer from Australia</h3>
-<img align="right" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" Height="350" width="500" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehalben&label=Profile%20views&color=0e75b6&style=flat" alt="snehalben" /> </p>
-
+<img align="right" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" Height="350" width="500" >
 - 💬 Ask me about **HTML,CSS,C++ and .NET**
 
 - 📫 How to reach me **chaudharysnehal1994@gmail.com**
